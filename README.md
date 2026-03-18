@@ -71,6 +71,3 @@ kineticai/
 | `npm run db:migrate` | Push database migrations |
 | `npm run db:seed` | Seed initial data          |
 
-## License
-
-MIT
